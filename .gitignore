@@ -8,5 +8,6 @@ wheels/
 
 # Virtual environments
 .venv
+.env
 blog.db
 media/profile_pics/*
