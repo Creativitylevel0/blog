@@ -11,3 +11,7 @@ wheels/
 .env
 blog.db
 media/profile_pics/*
+
+populate_db.py
+
+populate_images/
